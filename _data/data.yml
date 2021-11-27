@@ -217,7 +217,8 @@ skills:
       - name: Ansible
         level: 60%   
 
-      - name: DB -Oracle, MySQL, MS Sql
+      - name: DB -Oracle, MySQL, 
+              MS Sql
         level: 85%  
 
       - name: Git
