@@ -7,59 +7,57 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: aaaaaaaaaedfdfdfdffffffffffffffffffffffffffffffffffffffffffffdfadaaaaaa Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Aviraj Unathil
+    tagline: Senior Automation Tester
+    avatar: Capture5.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: aunathil@yahoo.com
+    phone: +91 8281321180
+    website: 
+    linkedin: aviraj-unathil-3a584b39
+    xing: 
+    github: aviraj047
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@Aviraj_Unathil'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://drive.google.com/file/d/1tzkTYh3Z3go3Tjwh7gzBb4XL0bsb1ZmZ/view?usp=sharing
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Malayalam
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      # - idiom: Spanish
+      #   level: Professional
 
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
       - item: Cooking
         link:
 
+      - item: Travelling
+        link:
+
+      - item: Playing sports (Volleyball, Football)
+        link:
+
 career-profile:
-    title: Career Profile
+    title: OBJECTIVE
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Accomplishing a full-time permanent high-level testing position to learn
+      and grow within your organization and contribute value using my knowledge
+      in Agile and Scrum, software-testing automation methodologies, software
+      quality process and strong analytical skills.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: B.Tech in Electronics & Communication
+      university: University of Kerala
+      time: 2009 - 2013
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -68,9 +66,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Higher Secondary Education
+      university: Kerala Board
+      time: 2007 - 2009
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -80,113 +78,153 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior Automation Engineer
+      time: 2020 - 2021
+      company: Se-Mentor Solutions(P) Ltd, Technopark, Kerala . India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
+        Senior Automation Engineer
+          - Preparation of Test Cases in JIRA.
+          - Experience in NimbleAMS/Salesforce Project.
+          - Experience in Automating Web Application Testing using Cypress with TeamCity.
+          - Good knowledge in Agile/Scrum and Iterative software development process.
+    - role: QA Engineer
+      time: 2015 - 2020
+      company: UST Global, Trivandrum , Kerala . India
+      details: |
+        Manual/Automation Tester
+          - Strong Experience in Automating Web Application Testing using Selenium WebDriver with TestNG.
+          - Framework and Job scheduler in Jenkins and Azure.
+          - Familiar with Bug Tracking Tool & Process.
+          - Writing Test cases using Element locators, WebDriver methods, Java programming and TestNG Annotations.
+          - Good knowledge in Agile/Scrum and Iterative software development process.
+          - Worked in Rest Assured API testing.
+          - Good understanding of all phases of software development life cycle and testing life cycle.
+    - role: Manual Tester
       time: 2014 - 2015
-      company: Google, London
+      company: Arriys Infosoft Pvt. Ltd, Noida , Delhi . India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Tax Preparation.
+          - Designing and testing of US tax forms for H&R Block’s Blockworks application, based on the state
+            and specifications released by IRS. The forms are designed using an application named BW ION tool.
+            This project was highly critical for the business of H&R Block.
 projects:
-    title: Projects
+    title: PROJECTS
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     assignments:
-      - title: Velocity
+      - title: Medstudy Application
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Medical associates can buy digital books for their carrier. Cypress Automation used for Regression Testing."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: CICE – CheckIn and Credentialing
+        link: "#hook"
+        tagline: "American College of Radiology user registration form for participating the Events. Selenium with TestNG Framework
+                  used for Automation with JIRA."
 
-      - title: Tempo
+      - title: FACR Application Testing 
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Openwater application migration from personify to Salesforce. Application to get the Fellowship of the American College of Radiology."
 
-      - title: Atom
+      - title: HigherLogic Testing 
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Migration Project in Salesforce."
 
-      - title: Delta
+      - title: NImbleAMS/Salesforce Project 
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Data migration in Nimble AMS to Salesforce"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
+      - title: CME Gateway Testing 
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        tagline: "Credits for users belongs to different societies or chapters in American College of Radiology."
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: OLO - Online Ordering Application 
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        tagline: "Online Application platform in HEB(US) store."
 
-      - title: A syntax directed compiler for Algol 60
+      - title: Tax Prepration in H&R Block
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "Testing the data and dataflow in Tax Preparation."
+
+
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
+
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Leadership Skills
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Communication Skills
+        level: 95%
 
-      - name: Sketch & Photoshop
+      - name: Problem Solving Skills
+        level: 95%
+
+      - name: Responsibility
+        level: 95%
+
+      - name: Teamwork
+        level: 95%
+
+      - name: Agile and Scrum
+        level: 95%
+
+      - name: JIRA
+        level: 95%
+
+      - name: Core Java
+        level: 70%
+
+      - name: Selenium/TestNG
+        level: 900%
+
+      - name: Cypress
+        level: 90%
+
+      - name: Azure Devops
+        level: 70%
+
+      - name: Salesforce
+        level: 60%   
+
+      - name: RestAssured API Testing
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: Docker
+        level: 60%
+
+      - name: Ansible
+        level: 60%   
+
+      - name: DB -Oracle, MySQL, MS Sql
+        level: 85%  
+
+      - name: Git
+        level: 90%  
+
+      - name: Maven
+        level: 90%  
+
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
